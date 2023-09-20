@@ -1,6 +1,7 @@
 ---
 title: "Number2 Practice"
 format: html
+date: 2023.09.20
 editor: visual
 ---
 
